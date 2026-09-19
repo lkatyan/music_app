@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="infos">Справочник</string>
+    <string name="tests">Проверка знаний</string>
+    <string name="chat">Чат</string>
+    <string name="rating">Рейтинг</string>
+    <string name="progress">Прогресс</string>
+    <string name="vks">Видео-связь</string>
+    <string name="appl">Аппликатура</string>
+</resources>
